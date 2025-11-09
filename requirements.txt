@@ -1,0 +1,8 @@
+# Core dependencies for Connect 4 Reinforcement Learning Game
+
+pygame>=2.5.0      # Game rendering and UI
+numpy>=1.26.0      # Numerical computations and feature processing
+
+# Optional developer tools (safe to leave or remove)
+black==24.8.0      # Code formatter
+flake8==7.1.1      # Linting
